@@ -1,6 +1,6 @@
 # Identification of foraging areas with dive data obtained from telemetry tracking
 ### Selection of likely foraging dives with a vertical approach ([Planque et al., 2020](https://doi.org/10.1007/s00227-019-3636-8))
-• **OBJECTIVES** : Identify the foraging areas of diving predators (here harbour and grey seals) by analysing dive data obtained from telemetry tags (here GPS/GSM tags). The two species are usually considered as benthic foragers and therefore typically perform fast U-shaped dives to forage. We therefore aimed at selecting this type of dives (called 'likely foraging dives') using two dive criteria, and to spatialise these dives (i.e. likely foraging areas).
+• **OBJECTIVES** : Identify the foraging areas of diving predators (here harbour and grey seals) by analysing dive data obtained from telemetry tags (here GPS/GSM tags). The two seal species are usually considered as benthic foragers and therefore typically perform fast U-shaped dives to forage. We therefore aimed at selecting this type of dives (called 'likely foraging dives') using two dive criteria, and to spatialise these dives (i.e. likely foraging areas).
 
 • **METHOD** : 
 <br>(1) Calculate individual **Minimum Cost of Transport Speed (MCTS)**. It is based on TAD index calculation, and should ideally be run at the individual level (method presented by [Vincent et al., 2016](https://doi.org/10.1093/icesjms/fsw102)). Function *MCTS_ind*. </br>
