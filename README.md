@@ -24,9 +24,9 @@ Planque Yann, Caurant Florence, Vincent Cécile (2021). Dive data obtained from 
 
 Before running the script, please download the file repository in the ZIP file and place it on your desktop. Place the data previously dowloaded in the subfolder "Input".
 
-First publication on GitHub : 2020-11-05
+First publication on GitHub : 2021-04-14
 
-Last update : 2021-04-12 (Version 1.3)
+Last update : 2021-04-14 (Version 1.1)
 
 ## Author : Yann Planque(1)
  Affiliation :
