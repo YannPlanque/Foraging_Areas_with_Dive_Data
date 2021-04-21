@@ -13,7 +13,7 @@
 • **CASE STUDY** : harbour seals and grey seals captured in the *Baie de Somme* (France), respectively in 2008 and 2012, and fitted with GPS/GSM tags. We identified here the foraging areas at both species and individual levels.
 
 ## Script developped as part of: 
-Planque, Y., Spitz, J., Authier, M., Vincent, C., Caurant, F. Trophic niche overlap between sympatric harbour seals (Phoca vitulina) and grey seals (Halichoerus grypus) at their Southern European limit range (Eastern English Channel). Submitted in 'Ecology and Evolution'.
+Planque, Y., Spitz, J., Authier, M., Guillou, G., Vincent, C., Caurant, F. Trophic niche overlap between sympatric harbour seals (Phoca vitulina) and grey seals (Halichoerus grypus) at the Southern limit of their European range (Eastern English Channel). Submitted in 'Ecology and Evolution'.
 
 Preprint version (1st version submitted in 2020-11): https://doi.org/10.22541/au.160508195.50224560/v1
 
@@ -28,7 +28,7 @@ First publication on GitHub : 2021-04-14
 
 Last update : 2021-04-14 (Version 1.1)
 
-## Author : Yann Planque(1)
+## Author : Yann Planque<sup>(1)</sup>
  Affiliation :
     (1) Centre d'Etudes Biologiques de Chizé (CEBC, UMR 7372 CNRS - La Rochelle Université), La Rochelle, France
 
