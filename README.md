@@ -22,7 +22,7 @@ Before running the script, please download the file repository in the ZIP file a
 
 First publication on GitHub : 2021-04-14
 
-Last update : 2021-04-14 (Version 1.1)
+Last update : 2021-07-06 (Version 1.2)
 
 ## Author : Yann Planque<sup>(1)</sup>
  Affiliation :
